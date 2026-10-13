@@ -2,4 +2,4 @@
 - I like playing video games and my favorite one is Clair-Obscur: Expedition 33.
 - I enjoy listening to all kinds of music in my free time.
 
-![image](https://raw.githubusercontent.com/bgn12637/my-first-repo/refs/heads/profile-picture/cat-1192026_1280.jpg)
+![image](https://github.com/user-attachments/assets/d2acff76-4e27-4aca-9b46-4b848a09cc16)
